@@ -1,7 +1,7 @@
 from imports import Bot, Dispatcher, types, executor, asyncio, set_default_commands, logging, MemoryStorage, CallbackQuery, Message, multiprocessing
 
 
-TOKEN = "6115569749:AAF8VwSYiVgsKqa1IPYy8K0lwFoYBOig2bI"
+TOKEN = ""
 
 bot = Bot(token=TOKEN, parse_mode="HTML")
 storage = MemoryStorage()
