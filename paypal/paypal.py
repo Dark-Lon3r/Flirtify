@@ -10,8 +10,8 @@ paypal_key = Pay()
 # настройки PayPal
 paypalrestsdk.configure({
   "mode": "live", # sandbox or live
-  "client_id": "AW8cC3tIvNgvC6BcTRMv_Zoj16zHMhT8XRlrOLDjZGYHYRpdPUSJlZNbapvWR2HmeMOZXfW7oRcfwnbK",
-  "client_secret": "ELE3z-c6JEglR4Og5iOKXPPFsPliDajIR7yrCSko1ddbJpS76oWH36PDceQ4YnltMQEl2JCEemirRGxd"
+  "client_id": "",
+  "client_secret": ""
 })
 
 
